@@ -2,6 +2,6 @@
 
 repos:
   tinyfiledialogs:
-    description: "inputbox password WIN OSX GTK QT Console VCPKG C# Lua R Fortran Pascal"
+    description: "(mirror) inputbox password WIN OSX GTK QT Console VCPKG C# Lua R Fortran Pascal"
     license: "zlib/libpng License"
     language: C
