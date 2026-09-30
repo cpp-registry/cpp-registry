@@ -1,7 +1,7 @@
 # File for the regitry
 
 repos:
-  base32:
+  tinyfiledialogs:
     description: "inputbox password WIN OSX GTK QT Console VCPKG C# Lua R Fortran Pascal"
     license: "zlib/libpng License"
     language: C
